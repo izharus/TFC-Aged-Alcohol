@@ -10,7 +10,7 @@ val minecraftVersion: String = "1.20.1"
 val forgeVersion: String = "47.1.3"
 val parchmentVersion: String = "2023.09.03-1.20.1"
 val mixinVersion: String = "0.8.5"
-val tfcVersion: String = "4875028"
+val tfcVersion: String = "5133509"
 val jeiVersion: String = "15.2.0.27"
 val patchouliVersion: String = "1.20.1-81-FORGE"
 val jadeVersion: String = "4614153"
@@ -21,7 +21,7 @@ val modId: String = "tfcagedalcohol"
 base {
     archivesName.set("TFCAgedAlcohol-$minecraftVersion")
     group = "com.hermitowo.tfcagedalcohol"
-    version = "2.0"
+    version = "2.1"
 }
 
 java {

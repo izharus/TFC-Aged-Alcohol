@@ -34,6 +34,7 @@ def generate(rm: ResourceManager):
 
     rm.fluid_tag('tfc:drinkables', '#tfcagedalcohol:aged_alcohols')
     rm.fluid_tag('minecraft:water', '#tfcagedalcohol:aged_alcohols')
+    rm.block_tag('minecraft:replaceable', '#tfcagedalcohol:all_fluids')
 
     rm.lang("tfcagedalcohol.creative_tab.main", "TFC Aged Alcohol")
 
