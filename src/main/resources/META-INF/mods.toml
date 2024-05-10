@@ -32,5 +32,5 @@ side = "BOTH"
 modId = "tfc"
 mandatory = true
 versionRange = "[3.0.0-beta,)"
-ordering = "NONE"
+ordering = "AFTER"
 side = "BOTH"
